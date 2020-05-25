@@ -5,7 +5,9 @@
 
 ## Note
 This project for optional web task assignment.
+
 The concept was similar with SHA1 online from http://www.sha1-online.com
+
 SHA1 online can be used for validating the hash result.
 
 ## Reference
